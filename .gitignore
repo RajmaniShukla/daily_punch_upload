@@ -1,0 +1,28 @@
+# Configuration (contains credentials)
+conn.php
+config.php
+*.config.php
+
+# Uploads & Temporary files
+img/
+uploads/
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+composer.lock
+
+# Excel temp files
+~$*.xls
+~$*.xlsx
